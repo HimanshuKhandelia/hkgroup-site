@@ -1,0 +1,13 @@
+---
+title: "Spontaneous ion binding to the Na+,K+-pump"
+description: "Two K+ ions bind spontaneously to the outward-open E2P state of the Na+,K+-ATPase."
+order: 3
+---
+
+Two K+ ions bind spontaneously to the outward-open E2P state of the Na+,K+-ATPase.
+
+[Original paper](https://www.nature.com/articles/srep39829)
+
+::: {.notice}
+**Movie slot.** To add or replace a movie, copy an MP4 file into `media/simulations/` and insert the video block shown in `_templates/simulation-template.qmd`.
+:::

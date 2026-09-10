@@ -1,0 +1,23 @@
+---
+title: "Present Group Members"
+---
+
+The group is based at **PhyLife – Physical Life Sciences**, Department of Physics, Chemistry and Pharmacy, University of Southern Denmark, Odense.
+
+## Group leader
+
+<div class="person-list">
+<div class="person"><strong>Himanshu Khandelia</strong><span>Associate Professor · Computational biophysics, membranes and membrane proteins</span></div>
+</div>
+
+## Research staff and postdocs
+
+<div class="person-list">
+<div class="person"><strong>Ali Asghar Hakami Zanjani</strong><span>Staff Scientist · Membrane repair</span></div>
+<div class="person"><strong>Luise Jacobsen</strong><span>Postdoc · Proton-coupled transport</span></div>
+<div class="person"><strong>Hassan Ghermezcheshme</strong><span>Postdoc · Nanoplastics and peptide-functionalized filtration</span></div>
+<div class="person"><strong>Sneha Menon</strong><span>Postdoc · Transport through membrane proteins</span></div>
+<div class="person"><strong>Konark Bisht</strong><span>Postdoctoral researcher · Voltage-sensing mechanisms</span></div>
+</div>
+
+For authoritative SDU employment information, see [PhyLife employees](https://www.sdu.dk/en/forskning/phylife/employees).

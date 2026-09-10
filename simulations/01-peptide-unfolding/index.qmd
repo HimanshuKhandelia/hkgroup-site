@@ -1,0 +1,11 @@
+---
+title: "Calculation of the heat capacity of a peptide unfolding transition"
+description: "Students simulate a peptide at different temperatures, construct a heat-capacity curve from fluctuations, and observe unfolding directly in the trajectory."
+order: 1
+---
+
+Students simulate a peptide at different temperatures, construct a heat-capacity curve from fluctuations, and observe unfolding directly in the trajectory.
+
+::: {.notice}
+**Movie slot.** To add or replace a movie, copy an MP4 file into `media/simulations/` and insert the video block shown in `_templates/simulation-template.qmd`.
+:::

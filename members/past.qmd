@@ -1,0 +1,30 @@
+---
+title: "Past Group Members"
+---
+
+Former group members have moved into academic, research, software, data-science, teaching and industrial careers.
+
+## Postdocs and research staff
+
+- **Hridya V. M.** — former postdoc; ion transport
+- **Bastien Loubet** — later software engineer at SII, Toulouse
+- **Guillaume Chevrot** — later Research Engineer, University of Orléans
+- **Vitaly Chaban** — later faculty, Instituto de Ciência e Tecnologia, Universidade Federal de São Paulo, Brazil
+
+## PhD students
+
+- **Mayank Prakash Pandey** — PhD completed at SDU; computational investigation of complex biological systems
+- **Vikas Dubey** — later Data Scientist, Copenhagen
+- **Dennis Bruhn** — later Data Scientist, Copenhagen
+- **Lina Nåbo** *(co-advised)* — later Chemist at Nature Energy
+- **Wojciech Kopec** — later Project Group Leader at the Max Planck Institute in Göttingen
+
+## Master's students
+
+- **Paninnguaq Naja Elgaard-Jørgensen** (2019) — later QC Chemist, Novo Nordisk
+- **Karina Olesen** (2018) — later Software Engineer, Leica Geosystems / Hexagon
+- **Christian Wewer** (2018) — later Cloud Data Specialist, C.C.JENSEN A/S
+- **Morten Bjørnskov Nielsen** (2013) — later Science Teacher, Tornbjerg Gymnasium
+- **Sarah Witzke** (2010) — later Applications Scientist, Chemical Computing Group, Oxford
+
+*Affiliations above are retained from the legacy group website and describe positions reported there at the time.*

@@ -1,0 +1,13 @@
+---
+title: "Reorientation of oxidized lipid tails"
+description: "A shortened oxidized lipid tail capped by a carboxylate reorients toward the membrane surface, changing local membrane chemistry."
+order: 4
+---
+
+A shortened oxidized lipid tail capped by a carboxylate reorients toward the membrane surface, changing local membrane chemistry.
+
+[Original paper](https://www.sciencedirect.com/science/article/pii/S0006349509004019)
+
+::: {.notice}
+**Movie slot.** To add or replace a movie, copy an MP4 file into `media/simulations/` and insert the video block shown in `_templates/simulation-template.qmd`.
+:::

@@ -1,0 +1,10 @@
+---
+title: "Short news title"
+date: 2026-09-10
+description: "One-sentence summary shown on the News page."
+categories: [Research]
+---
+
+Write the news item here. Two or three paragraphs are usually enough.
+
+[Optional external link](https://example.org)

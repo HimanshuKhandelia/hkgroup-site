@@ -1,0 +1,22 @@
+---
+title: "Funding"
+---
+
+Our research has been supported by major Danish foundations, research councils and collaborative programmes.
+
+## Current and recent programmes
+
+| Programme | Funder | Period / note |
+|---|---|---|
+| **MitoPort — Mechanisms of Mitochondrial Transport in Metabolic Disease** | Novo Nordisk Foundation, NERD | DKK 13 million; announced 2026 |
+| **NPlastick — Engineering bacterial pili to remove plastic nanoparticles from water** | Novo Nordisk Foundation, Exploratory Interdisciplinary Synergy Programme | 2024–2026 |
+| **PolyNetPep — peptide-functionalized polymeric networks for nanoplastic filtration** | SDU Climate Cluster / project funding | 2025–2027 |
+| **UCP1 proton-leak mechanism** | Danish research funding / collaboration | 2023–2025 |
+
+## Selected previous funding migrated from the legacy website
+
+- **Lundbeck Foundation Young Investigator Grant** — DKK 10 million
+- **Novo Nordisk Foundation Synergy Grant** — DKK 4 million
+- **Villum Foundation Experiment Grant** — DKK 1.2 million
+
+[SDU Research Portal — projects](https://portal.findresearcher.sdu.dk/en/persons/hkhandel/)

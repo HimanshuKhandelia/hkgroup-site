@@ -1,0 +1,61 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - media/**
+
+website:
+  title: "Himanshu Khandelia Group"
+  site-url: "https://hkgroup.sdu.dk"
+  favicon: assets/favicon.svg
+  navbar:
+    title: "HK Group"
+    pinned: true
+    collapse-below: xl
+    search: true
+    left:
+      - href: research.qmd
+        text: Research
+      - text: Group Members
+        menu:
+          - href: members/present.qmd
+            text: Present
+          - href: members/past.qmd
+            text: Past
+      - href: publications.qmd
+        text: Publications
+      - href: simulation-highlights.qmd
+        text: Simulation Highlights
+      - href: news.qmd
+        text: News
+      - href: open-positions.qmd
+        text: Open Positions
+      - href: teaching.qmd
+        text: Teaching
+      - href: funding.qmd
+        text: Funding
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    border: true
+    left: "Himanshu Khandelia Group · University of Southern Denmark"
+    right:
+      - text: "SDU"
+        href: https://www.sdu.dk/en
+      - text: "PhyLife"
+        href: https://www.sdu.dk/en/forskning/phylife
+      - text: "Research Portal"
+        href: https://portal.findresearcher.sdu.dk/en/persons/hkhandel/
+
+format:
+  html:
+    theme: cosmo
+    css: assets/styles.css
+    toc: false
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    code-copy: true
+
+execute:
+  freeze: auto

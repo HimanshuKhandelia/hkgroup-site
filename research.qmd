@@ -1,0 +1,62 @@
+---
+title: "Research"
+description: "Research themes in the Himanshu Khandelia Group"
+---
+
+We use molecular dynamics (MD) simulations and related theoretical and computational methods to investigate the self-assembly, phase behaviour and interaction networks of complex biological systems. Molecular simulation allows us to connect bulk thermodynamic behaviour with molecular-scale mechanisms that are often difficult to observe directly.
+
+## Current directions
+
+### Mitochondrial transport
+
+We study how mitochondrial membrane proteins recognize and transport metabolites and ions, how transport can be coupled to proton gradients, and how mutations or ligands reshape the underlying conformational landscape. A major current direction is **MitoPort**, an effort to build a mechanistic atlas of mitochondrial solute transport using large-scale molecular simulation.
+
+### Nanoplastics and biological interfaces
+
+We investigate the structure of nanoplastic particles, their interactions with membranes and proteins, and computational strategies for their detection or removal from water. Current projects combine molecular simulations with protein and peptide design.
+
+### Membrane proteins and ion transport
+
+Transmembrane pumps and transporters use chemical or electrochemical energy to move ions and metabolites across membranes. We use MD simulations to investigate ion selectivity, transport pathways, coupling mechanisms and disease-causing perturbations. Systems studied in the group include the Na+,K+-ATPase, gastric H+,K+-ATPase, SERCA, KdpFABC and mitochondrial transport proteins.
+
+**Selected legacy publications:** Poulsen *et al.*, *Nature* **467**, 99–102 (2010); Dubey *et al.*, *Scientific Reports* **8**, 12732 (2018); Yamamoto *et al.*, *eLife* **8** (2019).
+
+### Annexin-mediated membrane remodelling and repair
+
+Cancer-cell plasma membranes experience substantial rupture stress. Annexins are Ca²⁺-sensitive phospholipid-binding proteins involved in membrane repair. Using all-atom and coarse-grained MD, the group has investigated how annexins bind, aggregate and induce curvature in damaged membranes, and how these mechanisms might be perturbed therapeutically.
+
+**Selected publications:** Florentsen *et al.*, *Soft Matter* **17**, 308–318 (2021); Heitmann *et al.*, *J. Biol. Chem.* **297**, 101012 (2021); Zanjani *et al.*, *Biophysical Journal* **122**, 3008–3017 (2023).
+
+### Membrane electromechanics
+
+Lipid headgroups contain electrical dipoles. Curvature changes dipole density between the two leaflets of a bilayer and can therefore generate electrical polarization; conversely, transmembrane electric fields can influence membrane shape. We use simulation and theory to quantify this coupling between electrical potential and membrane mechanics.
+
+**Selected publications:** Bruhn, Lomholt & Khandelia, *J. Phys. Chem. B* **120**, 4812–4817 (2016); Bozorg, Lomholt & Khandelia, *J. Phys. Chem. B* **124**, 2815–2822 (2020).
+
+### Faster and enhanced molecular simulations
+
+The group has developed virtual-site approaches that suppress fast hydrogen degrees of freedom in lipid simulations while retaining their non-bonded interactions, enabling longer integration time steps with all-atom membrane force fields. We also use enhanced-sampling and machine-learning approaches to extract mechanisms from complex molecular landscapes.
+
+**Selected publications:** Loubet, Kopec & Khandelia, *J. Chem. Theory Comput.* **10**, 5690–5695 (2014); Olesen *et al.*, *J. Chem. Theory Comput.* **14**, 3342–3350 (2018).
+
+[Force-field files for the 5-fs lipid protocol](https://zenodo.org/record/1240161#.X3MQUpMzbVo)
+
+### Drug–membrane and ligand–protein interactions
+
+Small molecules can act not only through direct protein binding but also by changing membrane structure and dynamics. The group has investigated interactions of drugs and natural products with lipid bilayers, as well as ligand-induced changes in membrane proteins and receptors.
+
+### Oxidized phospholipids
+
+Oxidized phospholipids can strongly modify membrane chemistry, hydration and dynamics and are implicated in disease-associated cellular processes. Our simulations have examined their conformations, reorientation and interactions with cholesterol and other membrane components.
+
+**Selected publications:** Khandelia & Mouritsen, *Biophysical Journal* **96**, 2734–2743 (2009); Conte *et al.*, *BBA Biomembranes* **1828**, 510–517 (2013); Khandelia *et al.*, *Soft Matter* **10**, 639–647 (2014).
+
+### Psychedelic ligands and GPCRs
+
+We also investigate the molecular basis by which psychoactive ligands interact with G-protein-coupled receptors, with an emphasis on receptor conformational dynamics and experimentally testable molecular mechanisms.
+
+## Collaborations
+
+Our work is strongly collaborative and has involved experimental and theoretical groups in Denmark and internationally, including collaborators working on membrane repair, ion pumps, membrane biophysics and oxidized lipids.
+
+The legacy website listed collaborations with Adam Cohen Simonsen, Poul Martin Bendix, Jesper Nylandsted, Hanne Poulsen, Muthu Periasamy, David Stokes, Kazuhiro Abe, Michael A. Lomholt, Rosangela Itri, Luis Gustavo Dias, Albin Hermetter, Ronald Clarke, Ryoung Shin and Julian Shillcock, among others.

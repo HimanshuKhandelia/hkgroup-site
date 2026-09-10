@@ -1,0 +1,13 @@
+---
+title: "Allostery in Niemann–Pick C1 (NPC1)"
+description: "Simulations show how the conformations of NPC1 luminal domains respond to cholesterol occupancy at a membrane-binding site."
+order: 2
+---
+
+Simulations show how the conformations of NPC1 luminal domains respond to cholesterol occupancy at a membrane-binding site.
+
+[Original paper](https://www.biorxiv.org/content/10.1101/854620v1)
+
+::: {.notice}
+**Movie slot.** To add or replace a movie, copy an MP4 file into `media/simulations/` and insert the video block shown in `_templates/simulation-template.qmd`.
+:::

@@ -1,0 +1,41 @@
+---
+title: "Himanshu Khandelia Group"
+title-block-style: none
+page-layout: full
+listing:
+  contents: news
+  sort: "date desc"
+  type: default
+  max-items: 3
+  fields: [date, title, description]
+  categories: false
+---
+
+::: {.hero-wrap}
+::: {}
+<div class="hero-kicker">Computational biophysics · SDU</div>
+<div class="hero-title">From molecular motion to biological mechanism.</div>
+<div class="hero-copy">We use molecular dynamics simulations and related computational methods to understand membranes, membrane proteins, molecular transport, self-assembly and disease-linked biomolecular mechanisms.</div>
+
+[Explore our research](research.qmd){.btn .btn-success .mt-3}
+:::
+
+![](assets/mark.svg){.hero-mark}
+:::
+
+::: {.section-wide}
+## Research
+
+<div class="card-grid">
+<div class="hk-card"><span class="hk-tag">Transport</span><h3>Mitochondrial & membrane transport</h3><p>Mechanisms of transport, proton coupling and regulation in membrane proteins, including mitochondrial carriers and ion pumps.</p></div>
+<div class="hk-card"><span class="hk-tag">Membranes</span><h3>Membrane physics & repair</h3><p>How proteins, lipids, curvature, electric fields and chemical modifications reshape biological membranes.</p></div>
+<div class="hk-card"><span class="hk-tag">Methods</span><h3>Simulation & molecular design</h3><p>Advanced simulation, enhanced sampling and computational approaches for biomolecular mechanism and design.</p></div>
+</div>
+
+## Latest news
+
+::: {#listing}
+:::
+
+[All news →](news.qmd)
+:::

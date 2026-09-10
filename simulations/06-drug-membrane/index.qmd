@@ -1,0 +1,13 @@
+---
+title: "Drug binding to membranes"
+description: "Simulations examine binding of phenothiazine molecules to mixed phospholipid membranes and their membrane-mediated mechanisms."
+order: 6
+---
+
+Simulations examine binding of phenothiazine molecules to mixed phospholipid membranes and their membrane-mediated mechanisms.
+
+[Original paper](https://febs.onlinelibrary.wiley.com/doi/full/10.1111/febs.12286)
+
+::: {.notice}
+**Movie slot.** To add or replace a movie, copy an MP4 file into `media/simulations/` and insert the video block shown in `_templates/simulation-template.qmd`.
+:::

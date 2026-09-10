@@ -1,0 +1,10 @@
+---
+title: "DKK 13 million NERD grant for mitochondrial transport research"
+date: 2026-08-17
+description: "Novo Nordisk Foundation funding supports MitoPort, a mechanistic atlas of mitochondrial solute transport."
+categories: [Funding, Research]
+---
+
+The Novo Nordisk Foundation has awarded a **DKK 13 million NERD grant** to support **MitoPort: Mechanisms of Mitochondrial Transport in Metabolic Disease**. The project aims to build a comprehensive molecular-level map of how mitochondrial transport proteins move essential molecules across the inner mitochondrial membrane, and how disease-associated perturbations disrupt transport.
+
+[Read the SDU announcement](https://www.sdu.dk/en/om-sdu/institutter-centre/fysik_kemi_og_farmaci/aktuelt/2026_08_17_nerd-khandelia)

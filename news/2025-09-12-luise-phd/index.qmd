@@ -1,0 +1,10 @@
+---
+title: "Luise Jacobsen completes her PhD"
+date: 2025-09-12
+description: "Luise defended her thesis on mechanisms of the mitochondrial uncoupling protein UCP1."
+categories: [Group]
+---
+
+Luise Jacobsen defended her PhD thesis on **Investigating Uncoupling Protein 1 Mechanisms Using Molecular Dynamics Simulations**, continuing the group's work on proton transport and mitochondrial membrane proteins.
+
+[PhyLife announcement](https://www.sdu.dk/en/forskning/phylife/news-and-events)

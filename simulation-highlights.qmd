@@ -1,0 +1,18 @@
+---
+title: "Simulation Highlights"
+description: "Selected molecular simulation movies from the group"
+listing:
+  contents: simulations
+  type: grid
+  sort: "order"
+  fields: [title, description]
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  page-size: 20
+---
+
+Molecular simulations are especially useful because they let us watch collective molecular processes that are difficult to resolve experimentally. This gallery migrates the descriptions from the previous website and is structured so that new MP4 movies can be added with one small Markdown file.
+
+::: {#listing}
+:::

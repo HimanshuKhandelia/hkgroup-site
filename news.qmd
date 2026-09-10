@@ -1,0 +1,20 @@
+---
+title: "News"
+description: "Research, funding and group news"
+listing:
+  contents: news
+  sort: "date desc"
+  type: default
+  fields: [date, title, description]
+  categories: true
+  feed: true
+---
+
+::: {#listing}
+:::
+
+## Popular media coverage
+
+- [Psychedelic effects of psilocin at the molecular level — ScienceNews.dk](https://sciencenews.dk/en/psychedelic-effects-of-psilocin-at-the-molecular-level)
+- [SDU feature on psilocin research](https://www.sdu.dk/en/om_sdu/fakulteterne/naturvidenskab/nyheder-2023/psilocin-research)
+- Legacy media features also covered the molecular mechanism of umami taste, repurposing an antipsychotic as an anticancer drug, and the stoichiometry of the gastric H+,K+-ATPase.

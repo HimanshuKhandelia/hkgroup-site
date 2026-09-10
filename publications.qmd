@@ -1,0 +1,10 @@
+---
+title: "Publications"
+description: "Publications by Himanshu Khandelia and collaborators"
+---
+
+The list below is generated automatically from PubMed whenever this website is built. This removes the need to maintain a separate publication list by hand.
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=himanshu+khandelia&sort=date) · [ORCID 0000-0001-9913-6394](https://orcid.org/0000-0001-9913-6394) · [SDU Research Portal](https://portal.findresearcher.sdu.dk/en/persons/hkhandel/)
+
+{{< include _generated/publications.md >}}

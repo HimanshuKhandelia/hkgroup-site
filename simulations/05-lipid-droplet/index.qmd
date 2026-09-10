@@ -1,0 +1,13 @@
+---
+title: "Early stages of lipid-droplet formation"
+description: "Coarse-grained simulations show neutral triglycerides aggregating inside a phospholipid membrane, an early step in lipid-droplet biogenesis."
+order: 5
+---
+
+Coarse-grained simulations show neutral triglycerides aggregating inside a phospholipid membrane, an early step in lipid-droplet biogenesis.
+
+[Original paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0012811)
+
+::: {.notice}
+**Movie slot.** To add or replace a movie, copy an MP4 file into `media/simulations/` and insert the video block shown in `_templates/simulation-template.qmd`.
+:::

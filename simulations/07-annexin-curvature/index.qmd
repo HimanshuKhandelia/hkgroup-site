@@ -1,0 +1,13 @@
+---
+title: "Annexin-induced membrane curvature"
+description: "Human Annexin A4 binds to an anionic membrane and participates in membrane-remodelling processes associated with membrane repair."
+order: 7
+---
+
+Human Annexin A4 binds to an anionic membrane and participates in membrane-remodelling processes associated with membrane repair.
+
+[Original paper](https://www.mdpi.com/2073-4409/9/4/1029)
+
+::: {.notice}
+**Movie slot.** To add or replace a movie, copy an MP4 file into `media/simulations/` and insert the video block shown in `_templates/simulation-template.qmd`.
+:::

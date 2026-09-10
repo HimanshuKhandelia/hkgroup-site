@@ -1,0 +1,25 @@
+---
+title: "Teaching"
+---
+
+Our teaching emphasizes learning by doing: students run simulations, analyse trajectories, connect molecular behaviour to statistical mechanics, and use computational models to answer physical and chemical questions.
+
+## KE824 — Biomolecular Simulations
+
+An MSc-level course centred on molecular simulation. The course combines lectures with extensive computational exercises; students learn the foundations of statistical mechanics and molecular dynamics and gain practical experience running and analysing simulations.
+
+[Current SDU course description](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=181183&lang=en&listid=)
+
+## KE508 — Physical Chemistry B
+
+A bachelor-level physical chemistry course combining theoretical concepts, problem solving and laboratory work, including computational components.
+
+[SDU course information](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=163833&lang=en)
+
+## Protein structure, dynamics and modelling
+
+The group also contributes to teaching on protein structure, dynamics and computational modelling, including project-based computational work.
+
+## Student projects and supervision
+
+Bachelor, Master's and PhD projects are offered in computational biophysics, membrane proteins, molecular simulation, nanoplastics, molecular design and related topics. Current project opportunities can be discussed directly with the group.
