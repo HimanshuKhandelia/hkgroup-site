@@ -17,7 +17,6 @@ The group is based at **PhyLife – Physical Life Sciences**, Department of Phys
 <div class="person"><strong>Luise Jacobsen</strong><span>Postdoc · Proton-coupled transport</span></div>
 <div class="person"><strong>Hassan Ghermezcheshme</strong><span>Postdoc · Nanoplastics and peptide-functionalized filtration</span></div>
 <div class="person"><strong>Sneha Menon</strong><span>Postdoc · Transport through membrane proteins</span></div>
-<div class="person"><strong>Konark Bisht</strong><span>Postdoctoral researcher · Voltage-sensing mechanisms</span></div>
 </div>
 
 For authoritative SDU employment information, see [PhyLife employees](https://www.sdu.dk/en/forskning/phylife/employees).
