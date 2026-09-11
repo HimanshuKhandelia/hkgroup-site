@@ -6,6 +6,7 @@ Former group members have moved into academic, research, software, data-science,
 
 ## Postdocs and research staff
 
+- **Konark Bisht** — former postdoctoral researcher; voltage-sensing mechanisms
 - **Hridya V. M.** — former postdoc; ion transport
 - **Bastien Loubet** — later software engineer at SII, Toulouse
 - **Guillaume Chevrot** — later Research Engineer, University of Orléans
