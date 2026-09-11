@@ -10,6 +10,9 @@ import xml.etree.ElementTree as ET
 from collections import defaultdict
 from pathlib import Path
 
+# PubMed's abbreviated author search also finds other people published as
+# "H Khandelia". We deliberately search broadly, then retain only records
+# whose author metadata identifies the person as Himanshu Khandelia.
 TERM = 'Khandelia H[Author]'
 BASE = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/'
 OUT = Path(__file__).resolve().parents[1] / '_generated' / 'publications.md'
@@ -32,6 +35,16 @@ def clean(s: str) -> str:
     return re.sub(r'\s+', ' ', s).strip()
 
 
+def is_himanshu_khandelia(article) -> bool:
+    """Return True only when PubMed provides the full author name Himanshu Khandelia."""
+    for author in article.findall('./AuthorList/Author'):
+        last = text(author, './LastName').casefold()
+        fore = text(author, './ForeName').casefold()
+        if last == 'khandelia' and fore == 'himanshu':
+            return True
+    return False
+
+
 def main():
     q = urllib.parse.urlencode({'db':'pubmed','term':TERM,'retmax':500,'sort':'pub date','retmode':'xml'})
     root = ET.fromstring(get(BASE + 'esearch.fcgi?' + q))
@@ -40,6 +53,7 @@ def main():
         raise RuntimeError('No PubMed records found')
 
     by_year = defaultdict(list)
+    accepted = 0
     for start in range(0, len(ids), 100):
         batch = ids[start:start+100]
         q = urllib.parse.urlencode({'db':'pubmed','id':','.join(batch),'retmode':'xml'})
@@ -47,8 +61,9 @@ def main():
         for art in data.findall('.//PubmedArticle'):
             citation = art.find('./MedlineCitation')
             article = citation.find('./Article') if citation is not None else None
-            if article is None:
+            if article is None or not is_himanshu_khandelia(article):
                 continue
+
             pmid = text(citation, './PMID')
             title = clean(text(article, './ArticleTitle'))
             journal = clean(text(article, './Journal/Title'))
@@ -69,7 +84,11 @@ def main():
                 if aid.attrib.get('IdType') == 'doi' and aid.text:
                     doi=aid.text.strip(); break
             by_year[year].append((title, authors, journal, pmid, doi))
+            accepted += 1
         time.sleep(.35)
+
+    if not accepted:
+        raise RuntimeError('No PubMed records matched the full author name Himanshu Khandelia')
 
     lines=['## Publication list','']
     years=sorted(by_year, key=lambda y: (y=='Undated', -(int(y) if y.isdigit() else 0)))
@@ -87,7 +106,7 @@ def main():
         lines.append('')
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text('\n'.join(lines), encoding='utf-8')
-    print(f'Wrote {OUT} with {len(ids)} PubMed records')
+    print(f'Wrote {OUT} with {accepted} disambiguated PubMed records (from {len(ids)} abbreviated-name matches)')
 
 if __name__ == '__main__':
     main()
