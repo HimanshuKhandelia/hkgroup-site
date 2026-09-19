@@ -1,0 +1,10 @@
+---
+title: "4th Danish Workshop on Advanced Molecular Simulation — June 3–4, 2027"
+date: 2026-09-19
+description: "The fourth Danish Workshop on Advanced Molecular Simulation will take place at SDU in Odense on June 3–4, 2027."
+categories: [Workshop, Molecular simulation]
+---
+
+The **4th Danish Workshop on Advanced Molecular Simulation** will take place on **June 3–4, 2027** at the University of Southern Denmark in Odense.
+
+The meeting will bring together researchers working with molecular simulation across Denmark and beyond, with invited scientific talks, selected contributed talks, hands-on workshops and poster discussions. Further programme and registration information will follow.
