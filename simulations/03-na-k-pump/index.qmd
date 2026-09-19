@@ -1,13 +1,22 @@
 ---
 title: "Spontaneous ion binding to the Na+,K+-pump"
-description: "Two K+ ions bind spontaneously to the outward-open E2P state of the Na+,K+-ATPase."
+description: "Ion access and coordination in atomistic simulations of the Na+,K+-ATPase."
 order: 3
 ---
 
-Two K+ ions bind spontaneously to the outward-open E2P state of the Na+,K+-ATPase.
+The trajectory follows ions approaching and occupying sites in the Na+,K+-ATPase, illustrating how atomistic simulations can reveal ion-access pathways and coordination.
 
-[Original paper](https://www.nature.com/articles/srep39829)
+::: {.video-frame}
+<video controls muted loop playsinline preload="metadata">
+  <source src="../../media/simulations/ion_binding.mp4" type="video/mp4">
+</video>
+<div class="video-caption">Spontaneous ion binding and coordination in the Na+,K+-ATPase during atomistic molecular dynamics.</div>
+:::
 
-::: {.notice}
-**Movie slot.** To add or replace a movie, copy an MP4 file into `media/simulations/` and insert the video block shown in `_templates/simulation-template.qmd`.
+## References
+
+::: {.reference-list}
+Poulsen H, Khandelia H, Morth JP, Bublitz M, Mouritsen OG, Egebjerg J, Nissen P. **Neurological disease mutations compromise a C-terminal ion pathway in the Na+/K+-ATPase.** *Nature*. 2010;467(7311):99–102. [DOI: 10.1038/nature09309](https://doi.org/10.1038/nature09309)
+
+Poulsen H, Nissen P, Mouritsen OG, Khandelia H. **Protein kinase A (PKA) phosphorylation of Na+/K+-ATPase opens intracellular C-terminal water pathway leading to third Na+-binding site in molecular dynamics simulations.** *Journal of Biological Chemistry*. 2012;287(19):15959–15965. [DOI: 10.1074/jbc.M112.340406](https://doi.org/10.1074/jbc.M112.340406)
 :::

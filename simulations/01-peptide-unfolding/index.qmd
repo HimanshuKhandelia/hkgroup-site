@@ -1,11 +1,20 @@
 ---
 title: "Calculation of the heat capacity of a peptide unfolding transition"
-description: "Students simulate a peptide at different temperatures, construct a heat-capacity curve from fluctuations, and observe unfolding directly in the trajectory."
+description: "A peptide unfolding trajectory used to connect molecular fluctuations with the heat-capacity peak."
 order: 1
 ---
 
-Students simulate a peptide at different temperatures, construct a heat-capacity curve from fluctuations, and observe unfolding directly in the trajectory.
+The trajectory illustrates peptide unfolding sampled in the computer laboratory used to connect molecular fluctuations with the heat-capacity peak.
 
-::: {.notice}
-**Movie slot.** To add or replace a movie, copy an MP4 file into `media/simulations/` and insert the video block shown in `_templates/simulation-template.qmd`.
+::: {.video-frame}
+<video controls muted loop playsinline preload="metadata">
+  <source src="../../media/simulations/unfolding.mp4" type="video/mp4">
+</video>
+<div class="video-caption">Peptide unfolding during a molecular-dynamics trajectory used for calculation of the unfolding heat-capacity transition.</div>
+:::
+
+## Reference
+
+::: {.reference-list}
+Grøndahl LB, Schuhmann F, Bruhn D, Dubey V, Solov'yov IA, Khandelia H. **A Computer Laboratory for the Calculation of the Heat Capacity of a Peptide Unfolding Transition.** *The Biophysicist*. 2024;5(1):67–80. [DOI: 10.35459/tbp.2024.000251](https://doi.org/10.35459/tbp.2024.000251)
 :::

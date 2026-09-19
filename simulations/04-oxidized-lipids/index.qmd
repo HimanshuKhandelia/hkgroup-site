@@ -1,13 +1,20 @@
 ---
 title: "Reorientation of oxidized lipid tails"
-description: "A shortened oxidized lipid tail capped by a carboxylate reorients toward the membrane surface, changing local membrane chemistry."
+description: "An oxidized phospholipid tail reverses orientation and brings its polar terminus toward the aqueous interface."
 order: 4
 ---
 
-A shortened oxidized lipid tail capped by a carboxylate reorients toward the membrane surface, changing local membrane chemistry.
+A shortened oxidized lipid tail capped by a polar group can reorient toward the membrane surface, changing the local membrane environment.
 
-[Original paper](https://www.sciencedirect.com/science/article/pii/S0006349509004019)
+::: {.video-frame}
+<video controls muted loop playsinline preload="metadata">
+  <source src="../../media/simulations/reorient.mp4" type="video/mp4">
+</video>
+<div class="video-caption">Reorientation of an oxidized phospholipid acyl chain from the membrane interior toward the aqueous interface.</div>
+:::
 
-::: {.notice}
-**Movie slot.** To add or replace a movie, copy an MP4 file into `media/simulations/` and insert the video block shown in `_templates/simulation-template.qmd`.
+## Reference
+
+::: {.reference-list}
+Khandelia H, Mouritsen OG. **Lipid gymnastics: evidence of complete acyl chain reversal in oxidized phospholipids from molecular simulations.** *Biophysical Journal*. 2009;96(7):2734–2743. [DOI: 10.1016/j.bpj.2009.01.007](https://doi.org/10.1016/j.bpj.2009.01.007)
 :::

@@ -1,13 +1,22 @@
 ---
 title: "Annexin-induced membrane curvature"
-description: "Human Annexin A4 binds to an anionic membrane and participates in membrane-remodelling processes associated with membrane repair."
+description: "Annexin organization on an anionic membrane and the associated membrane-curvature response."
 order: 7
 ---
 
 Human Annexin A4 binds to an anionic membrane and participates in membrane-remodelling processes associated with membrane repair.
 
-[Original paper](https://www.mdpi.com/2073-4409/9/4/1029)
+::: {.video-frame}
+<video controls muted loop playsinline preload="metadata">
+  <source src="../../media/simulations/annexin.mp4" type="video/mp4">
+</video>
+<div class="video-caption">Annexin A4 organization on an anionic membrane and the associated membrane deformation and curvature response.</div>
+:::
 
-::: {.notice}
-**Movie slot.** To add or replace a movie, copy an MP4 file into `media/simulations/` and insert the video block shown in `_templates/simulation-template.qmd`.
+## References
+
+::: {.reference-list}
+Florentsen CD, Kamp-Sonne A, Moreno-Pescador G, Pezeshkian W, Hakami Zanjani AA, Khandelia H, Nylandsted J, Bendix PM. **Annexin A4 trimers are recruited by high membrane curvatures in giant plasma membrane vesicles.** *Soft Matter*. 2021;17(2):308–318. [DOI: 10.1039/d0sm00241k](https://doi.org/10.1039/d0sm00241k)
+
+Hakami Zanjani AA, Mularski A, Heitmann ASB, Dias C, Møller ME, Maeda K, Nylandsted J, Simonsen AC, Khandelia H. **Engineering a membrane-binding protein to trimerize and induce high membrane curvature.** *Biophysical Journal*. 2023;122(14):3008–3017. [DOI: 10.1016/j.bpj.2023.04.002](https://doi.org/10.1016/j.bpj.2023.04.002)
 :::

@@ -1,13 +1,20 @@
 ---
 title: "Allostery in Niemann–Pick C1 (NPC1)"
-description: "Simulations show how the conformations of NPC1 luminal domains respond to cholesterol occupancy at a membrane-binding site."
+description: "Large-scale NPC1 domain motions associated with cholesterol occupancy of the sterol-sensing region."
 order: 2
 ---
 
 Simulations show how the conformations of NPC1 luminal domains respond to cholesterol occupancy at a membrane-binding site.
 
-[Original paper](https://www.biorxiv.org/content/10.1101/854620v1)
+::: {.video-frame}
+<video controls muted loop playsinline preload="metadata">
+  <source src="../../media/simulations/npc.mp4" type="video/mp4">
+</video>
+<div class="video-caption">Large-scale NPC1 domain motions associated with cholesterol occupancy of the sterol-sensing region.</div>
+:::
 
-::: {.notice}
-**Movie slot.** To add or replace a movie, copy an MP4 file into `media/simulations/` and insert the video block shown in `_templates/simulation-template.qmd`.
+## Reference
+
+::: {.reference-list}
+Dubey V, Bozorg B, Wüstner D, Khandelia H. **Cholesterol binding to the sterol-sensing region of Niemann Pick C1 protein confines dynamics of its N-terminal domain.** *PLoS Computational Biology*. 2020;16(10):e1007554. [DOI: 10.1371/journal.pcbi.1007554](https://doi.org/10.1371/journal.pcbi.1007554)
 :::

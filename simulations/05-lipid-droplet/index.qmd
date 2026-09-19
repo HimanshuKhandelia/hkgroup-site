@@ -1,13 +1,20 @@
 ---
 title: "Early stages of lipid-droplet formation"
-description: "Coarse-grained simulations show neutral triglycerides aggregating inside a phospholipid membrane, an early step in lipid-droplet biogenesis."
+description: "Neutral triglycerides aggregate within a phospholipid bilayer to form a lens-like blister."
 order: 5
 ---
 
-Coarse-grained simulations show neutral triglycerides aggregating inside a phospholipid membrane, an early step in lipid-droplet biogenesis.
+Coarse-grained simulations show neutral triglycerides aggregating inside a phospholipid membrane, an early molecular step toward lipid-droplet biogenesis.
 
-[Original paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0012811)
+::: {.video-frame}
+<video controls muted loop playsinline preload="metadata">
+  <source src="../../media/simulations/big-bilayer.mp4" type="video/mp4">
+</video>
+<div class="video-caption">Triglycerides aggregate within the bilayer interior and form a lens-like blister.</div>
+:::
 
-::: {.notice}
-**Movie slot.** To add or replace a movie, copy an MP4 file into `media/simulations/` and insert the video block shown in `_templates/simulation-template.qmd`.
+## Reference
+
+::: {.reference-list}
+Khandelia H, Duelund L, Pakkanen KI, Ipsen JH. **Triglyceride blisters in lipid bilayers: implications for lipid droplet biogenesis and the mobile lipid signal in cancer cell membranes.** *PLoS ONE*. 2010;5(9):e12811. [DOI: 10.1371/journal.pone.0012811](https://doi.org/10.1371/journal.pone.0012811)
 :::

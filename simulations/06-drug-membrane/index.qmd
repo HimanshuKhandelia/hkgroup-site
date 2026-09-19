@@ -1,13 +1,20 @@
 ---
 title: "Drug binding to membranes"
-description: "Simulations examine binding of phenothiazine molecules to mixed phospholipid membranes and their membrane-mediated mechanisms."
+description: "Phenothiazine molecules partition into a phospholipid membrane, illustrating a membrane-mediated component of drug action."
 order: 6
 ---
 
-Simulations examine binding of phenothiazine molecules to mixed phospholipid membranes and their membrane-mediated mechanisms.
+The simulation follows phenothiazine molecules interacting with and partitioning into a phospholipid membrane.
 
-[Original paper](https://febs.onlinelibrary.wiley.com/doi/full/10.1111/febs.12286)
+::: {.video-frame}
+<video controls muted loop playsinline preload="metadata">
+  <source src="../../media/simulations/drug_binding.mp4" type="video/mp4">
+</video>
+<div class="video-caption">Phenothiazine molecules bind to and partition into a phospholipid membrane.</div>
+:::
 
-::: {.notice}
-**Movie slot.** To add or replace a movie, copy an MP4 file into `media/simulations/` and insert the video block shown in `_templates/simulation-template.qmd`.
+## Reference
+
+::: {.reference-list}
+Kopec W, Khandelia H. **Reinforcing the membrane-mediated mechanism of action of the anti-tuberculosis candidate drug thioridazine with molecular simulations.** *Journal of Computer-Aided Molecular Design*. 2014;28(2):123–134. [DOI: 10.1007/s10822-014-9737-z](https://doi.org/10.1007/s10822-014-9737-z)
 :::

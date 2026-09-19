@@ -13,14 +13,14 @@ listing:
 
 ::: {.hero-wrap}
 ::: {}
-<div class="hero-kicker">Computational biophysics · SDU</div>
-<div class="hero-title">From molecular motion to biological mechanism.</div>
+<div class="hero-kicker">University of Southern Denmark</div>
+<div class="hero-title">Computational Biophysics</div>
 <div class="hero-copy">We use molecular dynamics simulations and related computational methods to understand membranes, membrane proteins, molecular transport, self-assembly and disease-linked biomolecular mechanisms.</div>
 
 [Explore our research](research.qmd){.btn .btn-success .mt-3}
 :::
 
-![](assets/mark.svg){.hero-mark}
+![](assets/hero-protein.jpg){.hero-image}
 :::
 
 ::: {.section-wide}
