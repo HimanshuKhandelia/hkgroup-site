@@ -2,12 +2,10 @@
 title: "Open Positions"
 ---
 
-## Postdoctoral research in membrane-protein biophysics
+## Current opening
 
-The legacy group website advertises a **2.5-year postdoctoral position** working on membrane-protein biophysics, with a strong molecular-dynamics component and opportunities to use machine-learning methods.
+A current position in the group is advertised at the link below. Please use the official advertisement for the full project description, eligibility requirements, application deadline and submission instructions.
 
-Candidates should have a documented background in molecular dynamics simulations. A background in physics, chemistry, engineering or a related quantitative discipline is particularly relevant.
+[**View the open position →**](https://bit.ly/4cNWbt5){.btn .btn-success}
 
-Formal positions at SDU are advertised through the University's recruitment system. For research-fit questions, use the contact details on this site; applications should follow the instructions in the official advertisement.
-
-[SDU vacancies](https://www.sdu.dk/en/om-sdu/job-sdu)
+For questions about research fit, you are welcome to use the contact details on this site.
