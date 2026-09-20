@@ -25,19 +25,23 @@ a:hover { color: var(--hk-green-dark); }
 }
 #quarto-sidebar .sidebar-title {
   color: var(--hk-green-dark);
-  font-size: 1.35rem;
+  font-size: 1.55rem;
   font-weight: 760;
   letter-spacing: -.02em;
 }
 #quarto-sidebar .sidebar-navigation {
-  padding-top: .4rem;
+  padding-top: .65rem;
 }
 #quarto-sidebar .sidebar-item {
-  margin: .08rem 0;
+  margin: .12rem 0;
 }
 #quarto-sidebar .sidebar-link {
   color: #35443d;
   border-radius: 6px;
+  font-size: 1.08rem;
+  line-height: 1.35;
+  padding-top: .36rem;
+  padding-bottom: .36rem;
 }
 #quarto-sidebar .sidebar-link:hover {
   color: var(--hk-green);
@@ -49,7 +53,9 @@ a:hover { color: var(--hk-green-dark); }
   font-weight: 700;
 }
 #quarto-sidebar .sidebar-item-section > .sidebar-item-container {
-  margin-top: .45rem;
+  margin-top: .55rem;
+  font-size: 1.08rem;
+  font-weight: 650;
 }
 
 main.content { max-width: 1050px; }
