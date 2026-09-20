@@ -8,16 +8,18 @@ website:
   title: "Himanshu Khandelia Group"
   site-url: "https://hkgroup.sdu.dk"
   favicon: assets/favicon.svg
-  navbar:
+  sidebar:
+    style: docked
     title: "HK Group"
-    pinned: true
-    collapse-below: xl
     search: true
-    left:
+    collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: Home
       - href: research.qmd
         text: Research
-      - text: Group Members
-        menu:
+      - section: Group Members
+        contents:
           - href: members/present.qmd
             text: Present
           - href: members/past.qmd

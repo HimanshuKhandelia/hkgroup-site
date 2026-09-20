@@ -20,7 +20,7 @@ listing:
 [Explore our research](research.qmd){.btn .btn-success .mt-3}
 :::
 
-![](assets/hero-protein.jpg){.hero-image}
+![](assets/hero-protein.webp){.hero-image}
 :::
 
 ::: {.section-wide}
