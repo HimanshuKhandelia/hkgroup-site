@@ -6,8 +6,13 @@ The group is based at **PhyLife – Physical Life Sciences**, Department of Phys
 
 ## Group leader
 
-<div class="person-list">
-<div class="person"><strong>Himanshu Khandelia</strong><span>Associate Professor · Computational biophysics, membranes and membrane proteins</span></div>
+<div class="member-grid">
+
+<div class="member-card">
+<img src="../assets/members/himanshu.jpg" alt="Himanshu Khandelia" class="member-photo">
+<div class="member-name">Himanshu Khandelia</div>
+<div class="member-role">Associate Professor</div>
+<div class="member-topic">Computational biophysics, membranes and membrane proteins</div>
 </div>
 
 ## Research staff and postdocs
