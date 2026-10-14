@@ -7,63 +7,135 @@ description: "Research themes in the Himanshu Khandelia Group"
 
 We study how mitochondrial membrane proteins recognize and transport metabolites and ions, how transport can be coupled to proton gradients, and how mutations or ligands reshape the underlying conformational landscape.
 
-Here is some of our work on the Uncoupling Protein 1 (UCP1).
+**Selected Publications:**
 
-**Selected publications:**
+- “A novel model for proton transport mediated by uncoupling protein 1.” Jacobsen, L., Menon, S., Gaudry, M. J., Hakami Zanjani, A. A., Reinholdt, P., Jastroch, M. & Khandelia, H. ***Protein Sci*** **34**, e70357 (2025).  
+  [https://doi.org/10.1002/pro.70357](https://doi.org/10.1002/pro.70357)
 
-- Jacobsen L, Menon S, Gaudry MJ, Hakami Zanjani AA, Reinholdt P, Jastroch M, Khandelia H. **A novel model for proton transport mediated by uncoupling protein 1.** *Protein Science* **34**(11), e70357 (2025). [DOI: 10.1002/pro.70357](https://doi.org/10.1002/pro.70357)
-- Jacobsen L, Lydersen L, Khandelia H. **ATP-Bound State of the Uncoupling Protein 1 (UCP1) from Molecular Simulations.** *The Journal of Physical Chemistry B* **127**(45), 9685–9696 (2023). [DOI: 10.1021/acs.jpcb.3c03473](https://doi.org/10.1021/acs.jpcb.3c03473)
+- “ATP-Bound State of the Uncoupling Protein 1 (UCP1) from Molecular Simulations.” Jacobsen, L., Lydersen, L. & Khandelia, H. ***J Phys Chem B*** **127**, 9685–9696 (2023).  
+  [https://doi.org/10.1021/acs.jpcb.3c03473](https://doi.org/10.1021/acs.jpcb.3c03473)
+
 
 ### Psychedelic ligands and GPCRs
 
 We investigate the molecular basis by which psychoactive ligands interact with G-protein-coupled receptors, with an emphasis on receptor conformational dynamics and experimentally testable molecular mechanisms. In particular, we have worked with the magic mushroom extract psilocin.
 
-**Selected publications:**
+**Selected Publications:**
 
-- Viohl N, Hakami Zanjani AA, Khandelia H. **Molecular insights into the modulation of the 5HT2A receptor by serotonin, psilocin, and the G protein subunit Gqα.** *FEBS Letters* **599**(6), 876–891 (2025). [DOI: 10.1002/1873-3468.15099](https://doi.org/10.1002/1873-3468.15099)
-- Zohairi F, Khandelia H, Hakami Zanjani AA. **Interaction of psychedelic tryptamine derivatives with a lipid bilayer.** *Chemistry and Physics of Lipids* **251**, 105279 (2023). [DOI: 10.1016/j.chemphyslip.2023.105279](https://doi.org/10.1016/j.chemphyslip.2023.105279)
-- Hakami Zanjani AA, Nguyen TQT, Jacobsen L, Khandelia H. **The molecular basis of the antidepressant action of the magic mushroom extract, psilocin.** *BBA Proteins and Proteomics* **1871**(4), 140914 (2023). [DOI: 10.1016/j.bbapap.2023.140914](https://doi.org/10.1016/j.bbapap.2023.140914)
+- “Molecular insights into the modulation of the 5HT2A receptor by serotonin, psilocin, and the G protein subunit Gqα.” Viohl, N., Hakami Zanjani, A. A. & Khandelia, H. ***FEBS Lett*** **599**, 876–891 (2025).  
+  [https://doi.org/10.1002/1873-3468.15099](https://doi.org/10.1002/1873-3468.15099)
+
+- “Interaction of psychedelic tryptamine derivatives with a lipid bilayer.” Zohairi, F., Khandelia, H. & Hakami Zanjani, A. A. ***Chem Phys Lipids*** **251**, 105279 (2023).  
+  [https://doi.org/10.1016/j.chemphyslip.2023.105279](https://doi.org/10.1016/j.chemphyslip.2023.105279)
+
+- “The molecular basis of the antidepressant action of the magic mushroom extract, psilocin.” Hakami Zanjani, A. A., Nguyen, T. Q. T., Jacobsen, L. & Khandelia, H. ***BBA Proteins Proteom*** **1871**, 140914 (2023).  
+  [https://doi.org/10.1016/j.bbapap.2023.140914](https://doi.org/10.1016/j.bbapap.2023.140914)
+
+- “Magic mushroom extracts in lipid membranes.” Nguyen, T. Q. T., Lund, F. W., Hakami Zanjani, A. A. & Khandelia, H. ***BBA Biomembranes*** **1864**, 183957 (2022).  
+  [https://doi.org/10.1016/j.bbamem.2022.183957](https://doi.org/10.1016/j.bbamem.2022.183957)
+
 
 ### Membrane proteins and ion transport
 
 Transmembrane pumps and transporters use chemical or electrochemical energy to move ions and metabolites across membranes. We use MD simulations to investigate ion selectivity, transport pathways, coupling mechanisms and disease-causing perturbations. Systems studied in the group include the Na+,K+-ATPase, gastric H+,K+-ATPase, SERCA, KdpFABC and mitochondrial transport proteins.
 
-**Selected publications:**
+**Selected Publications:**
 
-- Madapally HV, Hussein A, Eriksen MW, Pedersen BP, Stokes DL, Khandelia H. **On the mechanism of K+ transport through the inter-subunit tunnel of KdpFABC.** *Journal of General Physiology* **158**(1), e202513794 (2026). [DOI: 10.1085/jgp.202513794](https://doi.org/10.1085/jgp.202513794)
-- Abe K, Marimuthu P, Qian Y, Gopalasingam CC, Gerle C, Shigematsu H, Tanaka K, Khandelia H. **A unique gating mechanism revealed by the cryo-EM structure of monomeric ATP9A flippase.** *Journal of Biological Chemistry* **301**(10), 110631 (2025). [DOI: 10.1016/j.jbc.2025.110631](https://doi.org/10.1016/j.jbc.2025.110631)
-- Madapally HV, Abe K, Dubey V, Khandelia H. **Specific protonation of acidic residues confers K+ selectivity to the gastric proton pump.** *Journal of Biological Chemistry* **300**(1), 105542 (2024). [DOI: 10.1016/j.jbc.2023.105542](https://doi.org/10.1016/j.jbc.2023.105542)
+- “On the mechanism of K+ transport through the inter-subunit tunnel of KdpFABC.” Madapally, H. V., Hussein, A., Eriksen, M. W., Pedersen, B. P., Stokes, D. L. & Khandelia, H. ***J Gen Physiol*** **158**, e202513794 (2026).  
+  [https://doi.org/10.1085/jgp.202513794](https://doi.org/10.1085/jgp.202513794)
 
-### Nanoplastics and biological interfaces
+- “A unique gating mechanism revealed by the cryo-EM structure of monomeric ATP9A flippase.” Abe, K., Marimuthu, P., Qian, Y., Gopalasingam, C. C., Gerle, C., Shigematsu, H., Tanaka, K. & Khandelia, H. ***J Biol Chem*** **301**, 110631 (2025).  
+  [https://doi.org/10.1016/j.jbc.2025.110631](https://doi.org/10.1016/j.jbc.2025.110631)
 
-We investigate the structure of nanoplastic particles, their interactions with membranes and proteins, and computational strategies for their detection or removal from water. Current projects combine molecular simulations with protein and peptide design.
+- “Specific protonation of acidic residues confers K+ selectivity to the gastric proton pump.” Madapally, H. V., Abe, K., Dubey, V. & Khandelia, H. ***J Biol Chem*** **300**, 105542 (2024).  
+  [https://doi.org/10.1016/j.jbc.2023.105542](https://doi.org/10.1016/j.jbc.2023.105542)
+
+- “Serine phosphorylation regulates the P-type potassium pump KdpFABC.” Sweet, M. E., Zhang, X., Erdjument-Bromage, H., Dubey, V., Khandelia, H., Neubert, T. A., Pedersen, B. P. & Stokes, D. L. ***eLife*** **9**, e55480 (2020).  
+  [https://doi.org/10.7554/eLife.55480](https://doi.org/10.7554/eLife.55480)
+
+- “A single K+-binding site in the crystal structure of the gastric proton pump.” Yamamoto, K., Dubey, V., Irie, K., Nakanishi, H., Khandelia, H., Fujiyoshi, Y. & Abe, K. ***eLife*** **8**, e47701 (2019).  
+  [https://doi.org/10.7554/eLife.47701](https://doi.org/10.7554/eLife.47701)
+
+- “Neurological disease mutations compromise a C-terminal ion pathway in the Na+/K+-ATPase.” Poulsen, H., Khandelia, H., Morth, J. P., Bublitz, M., Mouritsen, O. G., Egebjerg, J. & Nissen, P. ***Nature*** **467**, 99–102 (2010).  
+  [https://doi.org/10.1038/nature09309](https://doi.org/10.1038/nature09309)
+
+
+### Nanoplastics
+
+We investigate the structure of nanoplastic particles, their interactions with membranes and proteins, and computational strategies for their detection or removal from water.
+
+**Selected Publications:**
+
+- “Polymer Polydispersity and Lipid Composition Control Nanoplastic Disassembly in Membranes.” Ghermezcheshme, H., Bisht, K., Yesylevskyy, S. & Khandelia, H. ***bioRxiv*** (2026).  
+  [https://www.biorxiv.org/content/10.64898/2026.09.24.754055v1](https://www.biorxiv.org/content/10.64898/2026.09.24.754055v1)
+
 
 ### Annexin-mediated membrane remodelling and repair
 
 Cancer-cell plasma membranes experience substantial rupture stress. Annexins are Ca²⁺-sensitive phospholipid-binding proteins involved in membrane repair. Using all-atom and coarse-grained MD, the group has investigated how annexins bind, aggregate and induce curvature in damaged membranes, and how these mechanisms might be perturbed therapeutically.
 
-**Selected publications:** Florentsen *et al.*, *Soft Matter* **17**, 308–318 (2021); Heitmann *et al.*, *J. Biol. Chem.* **297**, 101012 (2021); Zanjani *et al.*, *Biophysical Journal* **122**, 3008–3017 (2023).
+**Selected Publications:**
+
+- “Engineering a membrane-binding protein to trimerize and induce high membrane curvature.” Hakami Zanjani, A. A., Mularski, A., Heitmann, A. S. B., Dias, C., Møller, M. E., Maeda, K., Nylandsted, J., Simonsen, A. C. & Khandelia, H. ***Biophys J*** **122**, 3008–3017 (2023).  
+  [https://doi.org/10.1016/j.bpj.2023.04.002](https://doi.org/10.1016/j.bpj.2023.04.002)
+
+- “Interplay of membrane crosslinking and curvature induction by annexins.” Mularski, A., Sønder, S. L., Heitmann, A. S. B., Pandey, M. P., Khandelia, H., Nylandsted, J. & Simonsen, A. C. ***Sci Rep*** **12**, 22568 (2022).  
+  [https://doi.org/10.1038/s41598-022-26633-w](https://doi.org/10.1038/s41598-022-26633-w)
+
+- “Bending of a lipid membrane edge by annexin A5 trimers.” Pandey, M. P., Telles de Souza, P. C., Pezeshkian, W. & Khandelia, H. ***Biophys J*** **123**, 1006–1014 (2024).  
+  [https://doi.org/10.1016/j.bpj.2024.03.019](https://doi.org/10.1016/j.bpj.2024.03.019)
+
+- “Annexin A4 trimers are recruited by high membrane curvatures in giant plasma membrane vesicles.” Florentsen, C. D., Kamp-Sonne, A., Moreno-Pescador, G., Pezeshkian, W., Hakami Zanjani, A. A., Khandelia, H., Nylandsted, J. & Bendix, P. M. ***Soft Matter*** **17**, 308–318 (2021).  
+  [https://doi.org/10.1039/d0sm00241k](https://doi.org/10.1039/d0sm00241k)
+
 
 ### Membrane electromechanics
 
 Lipid headgroups contain electrical dipoles. Curvature changes dipole density between the two leaflets of a bilayer and can therefore generate electrical polarization; conversely, transmembrane electric fields can influence membrane shape. We use simulation and theory to quantify this coupling between electrical potential and membrane mechanics.
 
-**Selected publications:** Bruhn, Lomholt & Khandelia, *J. Phys. Chem. B* **120**, 4812–4817 (2016); Bozorg, Lomholt & Khandelia, *J. Phys. Chem. B* **124**, 2815–2822 (2020).
+**Selected Publications:**
+
+- “Sensing membrane voltage by reorientation of dipolar transmembrane peptides.” Bisht, K., Lomholt, M. A. & Khandelia, H. ***Biophys J*** **123**, 584–597 (2024).  
+  [https://doi.org/10.1016/j.bpj.2024.01.037](https://doi.org/10.1016/j.bpj.2024.01.037)
+
+- “Thermodynamic Investigation of the Mechanism of Heat Production During Membrane Depolarization.” Bozorg, B., Lomholt, M. A. & Khandelia, H. ***J Phys Chem B*** **124**, 2815–2822 (2020).  
+  [https://doi.org/10.1021/acs.jpcb.9b11456](https://doi.org/10.1021/acs.jpcb.9b11456)
+
+- “Quantifying the Relationship between Curvature and Electric Potential in Lipid Bilayers.” Bruhn, D. S., Lomholt, M. A. & Khandelia, H. ***J Phys Chem B*** **120**, 4812–4817 (2016).  
+  [https://doi.org/10.1021/acs.jpcb.6b03439](https://doi.org/10.1021/acs.jpcb.6b03439)
+
 
 ### Faster and enhanced molecular simulations
 
 The group has developed virtual-site approaches that suppress fast hydrogen degrees of freedom in lipid simulations while retaining their non-bonded interactions, enabling longer integration time steps with all-atom membrane force fields. We also use enhanced-sampling and machine-learning approaches to extract mechanisms from complex molecular landscapes.
 
-**Selected publications:** Loubet, Kopec & Khandelia, *J. Chem. Theory Comput.* **10**, 5690–5695 (2014); Olesen *et al.*, *J. Chem. Theory Comput.* **14**, 3342–3350 (2018).
+**Selected Publications:**
+
+- “Accelerating All-Atom MD Simulations of Lipids Using a Modified Virtual-Sites Technique.” Loubet, B., Kopec, W. & Khandelia, H. ***J Chem Theory Comput*** **10**, 5690–5695 (2014).  
+  [https://doi.org/10.1021/ct500100f](https://doi.org/10.1021/ct500100f)
+
+- “Faster Simulations with a 5 fs Time Step for Lipids in the CHARMM Force Field.” Olesen, K., Awasthi, N., Bruhn, D. S., Pezeshkian, W. & Khandelia, H. ***J Chem Theory Comput*** **14**, 3342–3350 (2018).  
+  [https://doi.org/10.1021/acs.jctc.8b00267](https://doi.org/10.1021/acs.jctc.8b00267)
 
 [Force-field files for the 5-fs lipid protocol](https://zenodo.org/record/1240161#.X3MQUpMzbVo)
+
 
 ### Drug–membrane and ligand–protein interactions
 
 Small molecules can act not only through direct protein binding but also by changing membrane structure and dynamics. The group has investigated interactions of drugs and natural products with lipid bilayers, as well as ligand-induced changes in membrane proteins and receptors.
 
+
 ### Oxidized phospholipids
 
 Oxidized phospholipids can strongly modify membrane chemistry, hydration and dynamics and are implicated in disease-associated cellular processes. Our simulations have examined their conformations, reorientation and interactions with cholesterol and other membrane components.
 
-**Selected publications:** Khandelia & Mouritsen, *Biophysical Journal* **96**, 2734–2743 (2009); Conte *et al.*, *BBA Biomembranes* **1828**, 510–517 (2013); Khandelia *et al.*, *Soft Matter* **10**, 639–647 (2014).
+**Selected Publications:**
+
+- “Lipid gymnastics: evidence of complete acyl chain reversal in oxidized phospholipids from molecular simulations.” Khandelia, H. & Mouritsen, O. G. ***Biophys J*** **96**, 2734–2743 (2009).  
+  [https://doi.org/10.1016/j.bpj.2009.01.007](https://doi.org/10.1016/j.bpj.2009.01.007)
+
+- “Lipid peroxidation and water penetration in lipid bilayers: A W-band EPR study.” Conte, E., Megli, F. M., Khandelia, H., Jeschke, G. & Bordignon, E. ***BBA Biomembranes*** **1828**, 510–517 (2013).  
+  [https://doi.org/10.1016/j.bbamem.2012.09.026](https://doi.org/10.1016/j.bbamem.2012.09.026)
+
+- “Pairing of cholesterol with oxidized phospholipid species in lipid bilayers.” Khandelia, H., Loubet, B., Olżyńska, A., Jurkiewicz, P. & Hof, M. ***Soft Matter*** **10**, 639–647 (2014).  
+  [https://doi.org/10.1039/C3SM52310A](https://doi.org/10.1039/C3SM52310A)
