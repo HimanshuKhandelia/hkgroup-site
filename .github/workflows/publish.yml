@@ -25,6 +25,19 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
+      - name: Generate simulation preview images
+        run: |
+          if ! command -v ffmpeg >/dev/null 2>&1; then
+            sudo apt-get update -qq
+            sudo apt-get install -y -qq ffmpeg
+          fi
+          ffmpeg -y -loglevel error -ss 18 -i media/simulations/unfolding.mp4 -frames:v 1 -vf "scale=900:506:force_original_aspect_ratio=decrease,pad=900:506:(ow-iw)/2:(oh-ih)/2:color=white" -q:v 3 simulations/01-peptide-unfolding/preview.jpg
+          ffmpeg -y -loglevel error -ss 7 -i media/simulations/npc.mp4 -frames:v 1 -vf "scale=900:506:force_original_aspect_ratio=decrease,pad=900:506:(ow-iw)/2:(oh-ih)/2:color=white" -q:v 3 simulations/02-npc1/preview.jpg
+          ffmpeg -y -loglevel error -ss 12 -i media/simulations/ion_binding.mp4 -frames:v 1 -vf "scale=900:506:force_original_aspect_ratio=decrease,pad=900:506:(ow-iw)/2:(oh-ih)/2:color=white" -q:v 3 simulations/03-na-k-pump/preview.jpg
+          ffmpeg -y -loglevel error -ss 4 -i media/simulations/reorient.mp4 -frames:v 1 -vf "scale=900:506:force_original_aspect_ratio=decrease,pad=900:506:(ow-iw)/2:(oh-ih)/2:color=white" -q:v 3 simulations/04-oxidized-lipids/preview.jpg
+          ffmpeg -y -loglevel error -ss 7 -i media/simulations/big-bilayer.mp4 -frames:v 1 -vf "scale=900:506:force_original_aspect_ratio=decrease,pad=900:506:(ow-iw)/2:(oh-ih)/2:color=white" -q:v 3 simulations/05-lipid-droplet/preview.jpg
+          ffmpeg -y -loglevel error -ss 12 -i media/simulations/drug_binding.mp4 -frames:v 1 -vf "scale=900:506:force_original_aspect_ratio=decrease,pad=900:506:(ow-iw)/2:(oh-ih)/2:color=white" -q:v 3 simulations/06-drug-membrane/preview.jpg
+          ffmpeg -y -loglevel error -ss 32 -i media/simulations/annexin.mp4 -frames:v 1 -vf "scale=900:506:force_original_aspect_ratio=decrease,pad=900:506:(ow-iw)/2:(oh-ih)/2:color=white" -q:v 3 simulations/07-annexin-curvature/preview.jpg
       - name: Refresh PubMed publications
         run: python scripts/fetch_pubmed.py
       - name: Render site
