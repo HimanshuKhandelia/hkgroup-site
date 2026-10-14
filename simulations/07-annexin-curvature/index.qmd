@@ -1,6 +1,7 @@
 ---
 title: "Annexin-induced membrane curvature"
 description: "Annexin organization on an anionic membrane and the associated membrane-curvature response."
+image: preview.jpg
 order: 7
 ---
 
