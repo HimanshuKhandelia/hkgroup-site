@@ -1,6 +1,7 @@
 ---
 title: "Drug binding to membranes"
 description: "Phenothiazine molecules partition into a phospholipid membrane, illustrating a membrane-mediated component of drug action."
+image: preview.jpg
 order: 6
 ---
 
