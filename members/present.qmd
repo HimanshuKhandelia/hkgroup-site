@@ -12,11 +12,43 @@ The group is based at **PhyLife – Physical Life Sciences**, Department of Phys
 
 ## Research staff and postdocs
 
-<div class="person-list">
-<div class="person"><strong>Ali Asghar Hakami Zanjani</strong><span>Staff Scientist · Membrane repair</span></div>
-<div class="person"><strong>Luise Jacobsen</strong><span>Postdoc · Proton-coupled transport</span></div>
-<div class="person"><strong>Hassan Ghermezcheshme</strong><span>Postdoc · Nanoplastics and peptide-functionalized filtration</span></div>
-<div class="person"><strong>Sneha Menon</strong><span>Postdoc · Transport through membrane proteins</span></div>
+<div class="member-grid">
+
+<div class="member-card">
+<img src="../assets/members/ali.webp" alt="Ali Asghar Hakami Zanjani" class="member-photo">
+<div class="member-name">Ali Asghar Hakami Zanjani</div>
+<div class="member-role">Staff Scientist</div>
+<div class="member-topic">Membrane repair</div>
+</div>
+
+<div class="member-card">
+<img src="../assets/members/luise.webp" alt="Luise Jacobsen" class="member-photo">
+<div class="member-name">Luise Jacobsen</div>
+<div class="member-role">Postdoc</div>
+<div class="member-topic">Proton-coupled transport</div>
+</div>
+
+<div class="member-card">
+<img src="../assets/members/hassan.webp" alt="Hassan Ghermezcheshme" class="member-photo">
+<div class="member-name">Hassan Ghermezcheshme</div>
+<div class="member-role">Postdoc</div>
+<div class="member-topic">Nanoplastics and peptide-functionalized filtration</div>
+</div>
+
+<div class="member-card">
+<img src="../assets/members/sneha.webp" alt="Sneha Menon" class="member-photo">
+<div class="member-name">Sneha Menon</div>
+<div class="member-role">Postdoc</div>
+<div class="member-topic">Transport through membrane proteins</div>
+</div>
+
+<div class="member-card">
+<img src="../assets/members/wilson.webp" alt="Zhi Wei Zeng (Wilson)" class="member-photo">
+<div class="member-name">Zhi Wei Zeng (Wilson)</div>
+<div class="member-role">Postdoc</div>
+<div class="member-topic">SLC25 proteins</div>
+</div>
+
 </div>
 
 For authoritative SDU employment information, see [PhyLife employees](https://www.sdu.dk/en/forskning/phylife/employees).

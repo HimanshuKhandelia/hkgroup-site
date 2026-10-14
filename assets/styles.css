@@ -177,3 +177,50 @@ footer.footer { background: #f4f8f5; border-top: 1px solid var(--hk-line) !impor
   .card-grid { grid-template-columns: 1fr; }
   .person-list { grid-template-columns: 1fr; }
 }
+
+
+/* Group member photo cards */
+.member-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 1.2rem;
+  margin: 1.2rem 0 2rem;
+}
+.member-card {
+  background: #fff;
+  border: 1px solid var(--hk-line);
+  border-radius: 12px;
+  padding: 1.15rem;
+  text-align: center;
+  box-shadow: 0 4px 16px rgba(26,72,51,.035);
+}
+.member-photo {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto .9rem;
+  border: 3px solid var(--hk-green-soft);
+}
+.member-name {
+  color: #18392b;
+  font-size: 1.08rem;
+  font-weight: 700;
+  line-height: 1.25;
+}
+.member-role {
+  margin-top: .28rem;
+  color: var(--hk-green-dark);
+  font-size: .95rem;
+  font-weight: 650;
+}
+.member-topic {
+  margin-top: .22rem;
+  color: var(--hk-muted);
+  font-size: .9rem;
+  line-height: 1.35;
+}
+@media (max-width: 650px) {
+  .member-grid { grid-template-columns: 1fr; }
+}
