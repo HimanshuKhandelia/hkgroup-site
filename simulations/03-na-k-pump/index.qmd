@@ -1,6 +1,7 @@
 ---
 title: "Spontaneous ion binding to the Na+,K+-pump"
 description: "Ion access and coordination in atomistic simulations of the Na+,K+-ATPase."
+image: preview.jpg
 order: 3
 ---
 
