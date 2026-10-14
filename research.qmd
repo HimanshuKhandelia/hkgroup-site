@@ -7,6 +7,10 @@ description: "Research themes in the Himanshu Khandelia Group"
 
 We study how mitochondrial membrane proteins recognize and transport metabolites and ions, how transport can be coupled to proton gradients, and how mutations or ligands reshape the underlying conformational landscape.
 
+::: {.research-figure}
+![](assets/research/slc25.webp){alt="Mitochondrial SLC25 carrier protein embedded in a lipid membrane"}
+:::
+
 **Selected Publications:**
 
 - “A novel model for proton transport mediated by uncoupling protein 1.” Jacobsen, L., Menon, S., Gaudry, M. J., Hakami Zanjani, A. A., Reinholdt, P., Jastroch, M. & Khandelia, H. ***Protein Sci*** **34**, e70357 (2025).  
@@ -19,6 +23,10 @@ We study how mitochondrial membrane proteins recognize and transport metabolites
 ### Psychedelic ligands and GPCRs
 
 We investigate the molecular basis by which psychoactive ligands interact with G-protein-coupled receptors, with an emphasis on receptor conformational dynamics and experimentally testable molecular mechanisms. In particular, we have worked with the magic mushroom extract psilocin.
+
+::: {.research-figure}
+![](assets/research/psilocin.webp){alt="Psilocybin mushrooms and a membrane-embedded G-protein-coupled receptor"}
+:::
 
 **Selected Publications:**
 
@@ -64,6 +72,10 @@ Transmembrane pumps and transporters use chemical or electrochemical energy to m
 
 We investigate the structure of nanoplastic particles, their interactions with membranes and proteins, and computational strategies for their detection or removal from water.
 
+::: {.research-figure}
+![](assets/research/plastic.webp){alt="Molecular structures of pristine and charged or oxidized PET, PE and PS nanoplastics"}
+:::
+
 **Selected Publications:**
 
 - “Polymer Polydispersity and Lipid Composition Control Nanoplastic Disassembly in Membranes.” Ghermezcheshme, H., Bisht, K., Yesylevskyy, S. & Khandelia, H. ***bioRxiv*** (2026).  
@@ -73,6 +85,10 @@ We investigate the structure of nanoplastic particles, their interactions with m
 ### Annexin-mediated membrane remodelling and repair
 
 Cancer-cell plasma membranes experience substantial rupture stress. Annexins are Ca²⁺-sensitive phospholipid-binding proteins involved in membrane repair. Using all-atom and coarse-grained MD, the group has investigated how annexins bind, aggregate and induce curvature in damaged membranes, and how these mechanisms might be perturbed therapeutically.
+
+::: {.research-figure}
+![](assets/research/annexin.webp){alt="Annexin bound to a lipid membrane alongside a membrane-curvature map"}
+:::
 
 **Selected Publications:**
 

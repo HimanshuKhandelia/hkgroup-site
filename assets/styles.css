@@ -247,3 +247,21 @@ footer.footer { background: #f4f8f5; border-top: 1px solid var(--hk-line) !impor
   box-shadow: 0 8px 24px rgba(26,72,51,.08);
   transition: transform .16s ease, box-shadow .16s ease;
 }
+
+
+/* Research section figures */
+.research-figure {
+  margin: 1.15rem 0 1.55rem;
+}
+.research-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 440px;
+  object-fit: contain;
+  margin: 0;
+  border: 1px solid var(--hk-line);
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 4px 16px rgba(26,72,51,.035);
+}
