@@ -3,23 +3,40 @@ title: "Research"
 description: "Research themes in the Himanshu Khandelia Group"
 ---
 
-We use molecular dynamics (MD) simulations and related theoretical and computational methods to investigate the self-assembly, phase behaviour and interaction networks of complex biological systems. Molecular simulation allows us to connect bulk thermodynamic behaviour with molecular-scale mechanisms that are often difficult to observe directly.
-
-## Current directions
-
 ### Mitochondrial transport
 
-We study how mitochondrial membrane proteins recognize and transport metabolites and ions, how transport can be coupled to proton gradients, and how mutations or ligands reshape the underlying conformational landscape. A major current direction is **MitoPort**, an effort to build a mechanistic atlas of mitochondrial solute transport using large-scale molecular simulation.
+We study how mitochondrial membrane proteins recognize and transport metabolites and ions, how transport can be coupled to proton gradients, and how mutations or ligands reshape the underlying conformational landscape.
 
-### Nanoplastics and biological interfaces
+Here is some of our work on the Uncoupling Protein 1 (UCP1).
 
-We investigate the structure of nanoplastic particles, their interactions with membranes and proteins, and computational strategies for their detection or removal from water. Current projects combine molecular simulations with protein and peptide design.
+**Selected publications:**
+
+- Jacobsen L, Menon S, Gaudry MJ, Hakami Zanjani AA, Reinholdt P, Jastroch M, Khandelia H. **A novel model for proton transport mediated by uncoupling protein 1.** *Protein Science* **34**(11), e70357 (2025). [DOI: 10.1002/pro.70357](https://doi.org/10.1002/pro.70357)
+- Jacobsen L, Lydersen L, Khandelia H. **ATP-Bound State of the Uncoupling Protein 1 (UCP1) from Molecular Simulations.** *The Journal of Physical Chemistry B* **127**(45), 9685–9696 (2023). [DOI: 10.1021/acs.jpcb.3c03473](https://doi.org/10.1021/acs.jpcb.3c03473)
+
+### Psychedelic ligands and GPCRs
+
+We investigate the molecular basis by which psychoactive ligands interact with G-protein-coupled receptors, with an emphasis on receptor conformational dynamics and experimentally testable molecular mechanisms. In particular, we have worked with the magic mushroom extract psilocin.
+
+**Selected publications:**
+
+- Viohl N, Hakami Zanjani AA, Khandelia H. **Molecular insights into the modulation of the 5HT2A receptor by serotonin, psilocin, and the G protein subunit Gqα.** *FEBS Letters* **599**(6), 876–891 (2025). [DOI: 10.1002/1873-3468.15099](https://doi.org/10.1002/1873-3468.15099)
+- Zohairi F, Khandelia H, Hakami Zanjani AA. **Interaction of psychedelic tryptamine derivatives with a lipid bilayer.** *Chemistry and Physics of Lipids* **251**, 105279 (2023). [DOI: 10.1016/j.chemphyslip.2023.105279](https://doi.org/10.1016/j.chemphyslip.2023.105279)
+- Hakami Zanjani AA, Nguyen TQT, Jacobsen L, Khandelia H. **The molecular basis of the antidepressant action of the magic mushroom extract, psilocin.** *BBA Proteins and Proteomics* **1871**(4), 140914 (2023). [DOI: 10.1016/j.bbapap.2023.140914](https://doi.org/10.1016/j.bbapap.2023.140914)
 
 ### Membrane proteins and ion transport
 
 Transmembrane pumps and transporters use chemical or electrochemical energy to move ions and metabolites across membranes. We use MD simulations to investigate ion selectivity, transport pathways, coupling mechanisms and disease-causing perturbations. Systems studied in the group include the Na+,K+-ATPase, gastric H+,K+-ATPase, SERCA, KdpFABC and mitochondrial transport proteins.
 
-**Selected legacy publications:** Poulsen *et al.*, *Nature* **467**, 99–102 (2010); Dubey *et al.*, *Scientific Reports* **8**, 12732 (2018); Yamamoto *et al.*, *eLife* **8** (2019).
+**Selected publications:**
+
+- Madapally HV, Hussein A, Eriksen MW, Pedersen BP, Stokes DL, Khandelia H. **On the mechanism of K+ transport through the inter-subunit tunnel of KdpFABC.** *Journal of General Physiology* **158**(1), e202513794 (2026). [DOI: 10.1085/jgp.202513794](https://doi.org/10.1085/jgp.202513794)
+- Abe K, Marimuthu P, Qian Y, Gopalasingam CC, Gerle C, Shigematsu H, Tanaka K, Khandelia H. **A unique gating mechanism revealed by the cryo-EM structure of monomeric ATP9A flippase.** *Journal of Biological Chemistry* **301**(10), 110631 (2025). [DOI: 10.1016/j.jbc.2025.110631](https://doi.org/10.1016/j.jbc.2025.110631)
+- Madapally HV, Abe K, Dubey V, Khandelia H. **Specific protonation of acidic residues confers K+ selectivity to the gastric proton pump.** *Journal of Biological Chemistry* **300**(1), 105542 (2024). [DOI: 10.1016/j.jbc.2023.105542](https://doi.org/10.1016/j.jbc.2023.105542)
+
+### Nanoplastics and biological interfaces
+
+We investigate the structure of nanoplastic particles, their interactions with membranes and proteins, and computational strategies for their detection or removal from water. Current projects combine molecular simulations with protein and peptide design.
 
 ### Annexin-mediated membrane remodelling and repair
 
@@ -50,13 +67,3 @@ Small molecules can act not only through direct protein binding but also by chan
 Oxidized phospholipids can strongly modify membrane chemistry, hydration and dynamics and are implicated in disease-associated cellular processes. Our simulations have examined their conformations, reorientation and interactions with cholesterol and other membrane components.
 
 **Selected publications:** Khandelia & Mouritsen, *Biophysical Journal* **96**, 2734–2743 (2009); Conte *et al.*, *BBA Biomembranes* **1828**, 510–517 (2013); Khandelia *et al.*, *Soft Matter* **10**, 639–647 (2014).
-
-### Psychedelic ligands and GPCRs
-
-We also investigate the molecular basis by which psychoactive ligands interact with G-protein-coupled receptors, with an emphasis on receptor conformational dynamics and experimentally testable molecular mechanisms.
-
-## Collaborations
-
-Our work is strongly collaborative and has involved experimental and theoretical groups in Denmark and internationally, including collaborators working on membrane repair, ion pumps, membrane biophysics and oxidized lipids.
-
-The legacy website listed collaborations with Adam Cohen Simonsen, Poul Martin Bendix, Jesper Nylandsted, Hanne Poulsen, Muthu Periasamy, David Stokes, Kazuhiro Abe, Michael A. Lomholt, Rosangela Itri, Luis Gustavo Dias, Albin Hermetter, Ronald Clarke, Ryoung Shin and Julian Shillcock, among others.
