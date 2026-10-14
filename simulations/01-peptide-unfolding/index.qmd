@@ -1,6 +1,7 @@
 ---
 title: "Calculation of the heat capacity of a peptide unfolding transition"
 description: "A peptide unfolding trajectory used to connect molecular fluctuations with the heat-capacity peak."
+image: preview.jpg
 order: 1
 ---
 
