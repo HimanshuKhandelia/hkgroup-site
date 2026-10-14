@@ -1,6 +1,7 @@
 ---
 title: "Reorientation of oxidized lipid tails"
 description: "An oxidized phospholipid tail reverses orientation and brings its polar terminus toward the aqueous interface."
+image: preview.jpg
 order: 4
 ---
 
