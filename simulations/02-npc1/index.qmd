@@ -1,6 +1,7 @@
 ---
 title: "Allostery in Niemann–Pick C1 (NPC1)"
 description: "Large-scale NPC1 domain motions associated with cholesterol occupancy of the sterol-sensing region."
+image: preview.jpg
 order: 2
 ---
 
