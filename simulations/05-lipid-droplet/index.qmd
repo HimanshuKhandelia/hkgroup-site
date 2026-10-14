@@ -1,6 +1,7 @@
 ---
 title: "Early stages of lipid-droplet formation"
 description: "Neutral triglycerides aggregate within a phospholipid bilayer to form a lens-like blister."
+image: preview.jpg
 order: 5
 ---
 
