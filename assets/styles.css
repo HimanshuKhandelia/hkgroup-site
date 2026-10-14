@@ -224,3 +224,26 @@ footer.footer { background: #f4f8f5; border-top: 1px solid var(--hk-line) !impor
 @media (max-width: 650px) {
   .member-grid { grid-template-columns: 1fr; }
 }
+
+
+/* Simulation Highlights preview cards */
+.quarto-listing-container-grid .card {
+  overflow: hidden;
+  border: 1px solid var(--hk-line);
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0 4px 16px rgba(26,72,51,.04);
+}
+.quarto-listing-container-grid .card-img-top,
+.quarto-listing-container-grid .thumbnail-image,
+.quarto-grid-item .thumbnail-image {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: contain;
+  background: #fff;
+}
+.quarto-listing-container-grid .card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(26,72,51,.08);
+  transition: transform .16s ease, box-shadow .16s ease;
+}
